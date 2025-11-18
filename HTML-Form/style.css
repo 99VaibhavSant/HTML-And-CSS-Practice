@@ -1,0 +1,84 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background: #f3f4f6;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 28px;
+  color: #333;
+}
+
+.cantainer {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+form {
+  width: 350px;
+  background: #fff;
+  padding: 25px 30px;
+  border-radius: 15px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* Label styling */
+label {
+  font-size: 16px;
+  font-weight: bold;
+  color: #444;
+  display: block;
+  margin-bottom: 6px;
+}
+
+/* Input styling */
+input[type="text"],
+input[type="email"],
+input[type="password"],
+select,
+textarea {
+  width: 100%;
+  padding: 10px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  font-size: 14px;
+  outline: none;
+  margin-bottom: 15px;
+  transition: 0.3s;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+  border-color: #3b82f6;
+  box-shadow: 0 0 5px rgba(59, 130, 246, 0.5);
+}
+
+/* Radio & Checkbox styling */
+input[type="radio"],
+input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+/* Button styling */
+button {
+  width: 100%;
+  padding: 12px;
+  background: #3b82f6;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: 0.3s ease-in-out;
+}
+
+button:hover {
+  background: #2563eb;
+  transform: scale(1.03);
+}
