@@ -1,1 +1,1 @@
-# HTML-And-CSS-Practice
+This repository contains my practice projects and exercises for improving my HTML and CSS skills. It includes small UI components, layouts, and styling experiments that help me learn and understand modern web development concepts. I’ll continue adding new examples as I progress, exploring topics like responsive design, Flexbox, Grid, animations, and clean code structure. This repo is mainly for learning, experimenting, and tracking my progress in front-end development.
