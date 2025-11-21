@@ -1,0 +1,35 @@
+body{
+    background-color: #504a4a;
+}
+
+#container {
+    width: 80%;
+    height: 400px;  
+    border: 2px solid black;
+    background-color: rgb(31, 30, 30);
+    margin: 10px auto ;
+    display: flex;
+    flex-direction: row;
+    justify-content:flex-start;
+    /* justify-content: space-between; */
+    flex-wrap: wrap;
+    /* flex-wrap: wrap-reverse; */
+    /* align-content: space-evenly; */
+    align-items: stretch;
+}
+
+h1{
+    text-align: center;
+}
+
+#container div{
+    height: 100px;
+    width: 300px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    /* font-size: 1.5em; */
+}
+
+#red{
+    font-size: 3.5rem;
+}
