@@ -46,16 +46,6 @@ Each project folder will contain:
 
 ---
 
-## 📸 Preview (Optional)
-
-You can add project screenshots like this:
-
-```
-![Project Preview](./assets/project-preview.png)
-```
-
----
-
 ## 📦 How to Use
 
 1. Clone the repo  
